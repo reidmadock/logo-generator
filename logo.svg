@@ -1,0 +1,17 @@
+<svg width="300" height="200">
+    <circle cx="150" cy="100" r="100" stroke="none" fill="black"/>
+        
+    <text x="150" y="100" text-anchor="middle">
+            RTM
+        </text>
+        
+    <style>
+            <![CDATA[
+              text{
+                dominant-baseline: middle;
+                font: 74px Verdana, Helvetica, Arial, sans-serif;
+                fill: blue;
+              }
+            ]]>
+        </style>
+    </svg>
